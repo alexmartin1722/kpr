@@ -1,7 +1,7 @@
 # Knowledge Pull Requests for Continual Document Authoring
 
 <div align="center">
-<a href="" target="_blank"><img src=https://img.shields.io/badge/arXiv-2510.24870-b5212f.svg?logo=arxiv></a>
+<a href="https://arxiv.org/abs/2609.26634" target="_blank"><img src=https://img.shields.io/badge/arXiv-2510.24870-b5212f.svg?logo=arxiv></a>
 </div>
 
 A **knowledge pull request** (KPR) rewrites existing documents with information from external sources producing:
@@ -207,3 +207,14 @@ Both pipelines share `authoring/`, so a fix to how claims are routed or
 integrated applies to both.
 
 ## Citation
+```
+@misc{martin2026knowledgepullrequestscontinual,
+      title={Knowledge Pull Requests for Continual Document Authoring}, 
+      author={Alexander Martin and Benjamin Van Durme},
+      year={2026},
+      eprint={2609.26634},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.26634}, 
+}
+```
