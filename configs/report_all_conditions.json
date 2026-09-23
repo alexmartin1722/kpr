@@ -1,0 +1,20 @@
+{
+  "_": "All five conditions on the same documents, from one shared first-round report.",
+  "_use": "kpr-report --config configs/report_all_conditions.json",
+  "_output": "One subdirectory per condition under out-dir.",
+
+  "claims": "work/claims.jsonl",
+  "docs": "work/docs.jsonl",
+  "requests": "work/requests.jsonl",
+  "out-dir": "work/reports_all",
+
+  "condition": "kpr,conclaim,context,scratch,rewrite_cond",
+  "shared-seed": true,
+  "seed-from": "docs",
+
+  "gate": true,
+  "dedup": true,
+
+  "concurrency": 16,
+  "skip-existing": true
+}

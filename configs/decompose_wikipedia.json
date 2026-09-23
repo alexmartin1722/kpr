@@ -1,0 +1,11 @@
+{
+  "_": "Decompose one MegaWika2 article set — every language edition of one article.",
+  "_use": "kpr-decompose --config configs/decompose_wikipedia.json",
+
+  "docs-dir": "example/documents",
+  "article": "Nabonidus",
+  "output-dir": "work/decomp",
+  "include-en": true,
+
+  "concurrency": 16
+}

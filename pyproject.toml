@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kpr"
+version = "1.0.0"
+description = "KPR — Knowledge-PR: cross-lingual Wikipedia claim decomposition, comparison, routing, and changelog (pull-request) creation"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.0",
+]
+
+[project.optional-dependencies]
+# Only needed for `kpr-compare --mode local`, which loads a model in-process
+# instead of calling a remote OpenAI-compatible (e.g. vLLM) endpoint.
+vllm = [
+    "vllm>=0.6",
+    "transformers>=4.40",
+    "torch>=2.0",
+]
+# exact multilingual token budgeting for the report pipeline's context limits;
+# without it a conservative character heuristic is used instead
+tokenizer = ["transformers>=4.40"]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+kpr-decompose        = "knowledge_pr.decompose_crosslingual:main"
+kpr-compare          = "knowledge_pr.compare_claims:main"
+kpr-build-candidates = "knowledge_pr.build_candidates:main"
+kpr-review           = "knowledge_pr.review_claims:main"
+kpr-aggregate        = "knowledge_pr.aggregate_reviews:main"
+kpr-build-pr         = "knowledge_pr.build_pr:main"
+kpr-report           = "knowledge_pr.report_run:main"
+
+[tool.setuptools.packages.find]
+include = ["knowledge_pr*"]

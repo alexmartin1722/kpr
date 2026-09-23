@@ -1,0 +1,12 @@
+{
+  "_": "Pull every document a RAGTIME task config names, then decompose it.",
+  "_use": "kpr-decompose --config configs/decompose_ragtime.json",
+  "_note": "save-docs freezes what was pulled, so later runs never rescan the corpus.",
+
+  "ragtime-config": "work/ragtime/v1_temporal.json",
+  "save-docs": "work/ragtime/docs.jsonl",
+  "out": "work/ragtime/claims.jsonl",
+
+  "unit": "paragraph",
+  "concurrency": 96
+}

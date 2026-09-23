@@ -1,0 +1,18 @@
+{
+  "_": "Turn reviewed claims into a Wikipedia pull request: claim proposal + document diff.",
+  "_use": "kpr-build-pr --config configs/build_pr.json",
+
+  "reviewed": "work/candidates/pr_reviewed.jsonl",
+  "documents-dir": "example/documents",
+  "out-dir": "work/prs",
+  "method": "crosslingual",
+
+  "_filtering": "min-importance is the content gate: 0 keeps everything, 1 drops content-free facts (MT fragments, category labels), 2 keeps only substantial ones.",
+  "min-importance": 1,
+
+  "_cluster": "A section receiving more than this many facts is organized into drafted subsections instead of one flat rewrite.",
+  "cluster-threshold": 25,
+
+  "concurrency": 8,
+  "skip-existing": true
+}

@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# KPR demo outputs / build artifacts
+example/work/
+*.egg-info/

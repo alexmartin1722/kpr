@@ -1,0 +1,20 @@
+{
+  "_": "RAGTIME: requests and per-round document batches come from a frozen task config.",
+  "_use": "kpr-report --config configs/report_ragtime.json",
+  "_first": "Build the claim cache: kpr-decompose --config configs/decompose_ragtime.json",
+
+  "claims": "work/ragtime/claims.jsonl",
+  "docs": "work/ragtime/docs.jsonl",
+  "ragtime-config": "work/ragtime/v1_temporal.json",
+  "out-dir": "work/ragtime/reports",
+
+  "condition": "kpr,conclaim,context,scratch",
+  "shared-seed": true,
+
+  "_filtering": "The relevance gate is what keeps a topic's claim pool on-topic; RAGTIME pools are large and noisy, so leaving it on matters more here than elsewhere.",
+  "gate": true,
+  "dedup": true,
+
+  "concurrency": 32,
+  "skip-existing": true
+}

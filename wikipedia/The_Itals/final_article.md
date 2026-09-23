@@ -1,0 +1,11 @@
+# The Itals
+
+The Itals are a Jamaican reggae vocal group formed in 1976 by Alvin "Keith" Porter, Lloyd Ricketts, and Ronnie Davis (formerly a member of The Tennors), all of whom had previously also recorded as solo artists. All three had worked together in the late 1960s in The Westmorelites. The group recorded several albums through the late 1970s and 1980s, with Ronnie Davis going on to a successful solo career in 1997 as Ronnie Davis and Idren. The Itals' debut single, "In A Dis Ya Time", is regarded as the group's finest work, and topped the Jamaican chart. 1987's Rasta Philosophy was nominated for a Grammy Award as Best Reggae Album. The line-up has changed over the years, with former solo artist David Isaacs joining in 1987 when Ricketts was sentenced to a prison term, preventing him from travelling to the United States. Davis left the group in 1994, and was replaced by Porter's daughter Kada. The Itals continued to tour in 2009 in support of the newly released "Let Them Talk". In 2011 original member Lloyd Ricketts was able to obtain a work permit and performed two shows with Keith and Ronnie before his death. Ronnie Davis stepped away from The Itals again in 2012 and reunited with the Rocksteady group The Tennors, but Keith continues to tour with two of his children, Darien Porter and Kada Porter, providing harmonies. Keith will be releasing "Mind Over Matter", the remastered compilation of 22 early Itals songs and a solo album of reggae covers of classic R&B songs, called "Let's Get it On" in July 2015.
+
+== Members and vocal roles ==
+
+Ricketts sang in the rocksteady group The Tennors.
+Keith Porter provided the lead vocals on 'Ina Dis Ya Time', which was based on the riddim of 'Won't You Come Home' by Ronnie Davis.
+Ronnie Davis left the group to pursue a solo career.
+
+The Early Recordings: 1971-1979 (1984) Ital Music Brutal Out Deh (1981) Ital Music Give Me Power! (1983) Ital Music Rasta Philosophy (1986) Ital Music Cool and Dread (1989) Ital Music Easy to Catch (1991) Rhythm Safari Modern Age (1998) RAS Mi Livity (2003) Ital Music Let Dem Talk (2009) Ital Music Mind Over Matter (2015) Ital Music Get It On(2015) Ital Music Ital Music(2020) Ital Music COMPILATION In A Dis Ya Time (2008) VP Records

@@ -1,0 +1,36 @@
+# Battle of Corricks Ford
+
+The Battle of Corrick's Ford took place on July 13, 1861, on the Cheat River in western Virginia (now the state of West Virginia) as part of the Operations in Western Virginia Campaign during the American Civil War. By later standards the battle was a minor skirmish. Often considered a final part of the Battle of Rich Mountain, it was the end of a series of battles between the forces of Union Maj. Gen. George B. McClellan and Confederate Brig. Gen. Robert S. Garnett.
+
+== Location ==
+
+The battle occurred in Tucker County, West Virginia.
+
+McClellan had defeated part of Garnett's force on July 11, 1861, at the Battle of Rich Mountain.
+On hearing of the defeat, Garnett fell back toward Virginia with approximately 4,500 men around midnight that night.
+He began to march towards Beverly, but received false information that McClellan's men occupied the town.
+The Confederates backtracked, abandoned the Staunton and Parkersburg Turnpike at Leadsville, and crossed Cheat Mountain into the Cheat River Valley.
+Union Brig.
+Gen.
+Thomas A.
+Morris pursued them with his Indiana brigade.
+The Confederate Northwestern Army was led by Brigadier General Robert S.
+Garnett.
+Around noon on July 13, Morris overtook Garnett's rear guard at Corrick's Ford on the Cheat River, and attacked the retreating Confederates.
+Morris overwhelmed Garnett's rear guard.
+Garnett personally directed the rear guard of the Confederate skirmishers in order to delay the Union attack.
+He soon withdrew to another ford two or three kilometers away.
+The running skirmish resumed and as Garnett again prepared to retreat, a Union volley killed him instantly.
+The Confederates fled, abandoning their dead commander, one cannon, and nearly 40 wagons.
+A friend in the Union Army recovered Garnett's body after the battle.
+He was the first general officer killed in the Civil War.
+Control of western Virginia was now firmly in Union hands and it stayed that way for the rest of the war.
+The campaign propelled Maj.
+Gen.
+George B.
+McClellan to command of the Army of the Potomac.
+
+Two monuments mark the Battle of Corricks Ford. A six-ton boulder affixed with a bronze plaque was dedicated in 1926 and later moved to a site which is now along US Route 219. Another monument to the battle was unveiled at the courthouse in 1938.
+
+The Civil War Trust (a division of the American Battlefield Trust) and its partners have acquired and preserved of the battlefield.
+The subject is related to the National Park Service.

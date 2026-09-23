@@ -1,0 +1,7 @@
+# KPR pipeline dependencies.
+# API mode (default): talk to any OpenAI-compatible endpoint (e.g. a vLLM server).
+openai>=1.0
+
+# Local mode (optional): only needed for `compare_claims.py --mode local`,
+# which loads the model in-process instead of hitting a remote server.
+# vllm

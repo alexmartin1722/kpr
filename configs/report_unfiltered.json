@@ -1,0 +1,18 @@
+{
+  "_": "Every extracted fact reaches the writer — no relevance gate, no dedup, no review.",
+  "_use": "kpr-report --config configs/report_unfiltered.json",
+  "_why": "The comparison for report_kpr.json: same documents, same prompts, nothing filtered.",
+
+  "claims": "work/claims.jsonl",
+  "docs": "work/docs.jsonl",
+  "requests": "work/requests.jsonl",
+  "out-dir": "work/reports_unfiltered",
+
+  "condition": "conclaim",
+
+  "_filtering": "conclaim ignores these; they are listed so the contrast with report_kpr.json is visible.",
+  "gate": false,
+  "dedup": false,
+
+  "concurrency": 16
+}

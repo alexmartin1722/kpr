@@ -1,0 +1,18 @@
+{
+  "_": "Keep only the N facts most relevant to the request — a shorter, denser report.",
+  "_use": "kpr-report --config configs/report_topk.json",
+  "_note": "max-claims implies the gate. gate-votes > 1 samples the gate repeatedly so the keep-rate can actually rank facts; with a single vote it is all-or-nothing and the cap cuts arbitrarily.",
+
+  "claims": "work/claims.jsonl",
+  "docs": "work/docs.jsonl",
+  "requests": "work/requests.jsonl",
+  "out-dir": "work/reports_top200",
+
+  "condition": "kpr",
+  "gate": true,
+  "gate-votes": 3,
+  "max-claims": 200,
+  "dedup": true,
+
+  "concurrency": 16
+}

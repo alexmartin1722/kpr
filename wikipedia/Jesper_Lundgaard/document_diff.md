@@ -1,0 +1,107 @@
+# Document diff — Jesper Lundgaard
+*Sentence-level diff, original English → after the KPR merge. 38 lines added/changed.*
+
+```diff
+--- Jesper_Lundgaard (original English)
++++ Jesper_Lundgaard (after KPR merge)
+@@ -6,8 +6,8 @@
+ In 1976 he began to study music at Århus University and the same year he became part of Århus' jazz scene when he joined Bent Eriksen's trio.
++Lundgaard played in a jazz club in Aarhus where American musicians were guests, including Eddie Lockjaw Davis and Jimmy Raney.
+ There he met Danish jazz musicians such as Thomas Clausen, Alex Riel, Niels Jørgen Steen, Finn Ziegler, Jesper Thilo, Jørgen Emborg and Jan Zum Vohrde as well as many American musicians, including Dexter Gordon, Harry Sweets Edison, Eddie Lockjaw Davis, Joe Newman, Benny Waters, Hal Singer, Thad Jones, Mel Lewis, Pepper Adams, Howard McGhee, Roy Eldridge and Doug and Jimmy Raney.
+ Lundgaard soon established himself as one of the leading jazz bassists on the Danish jazz scene.
+-
+ In 1978 he became a member of the Thad Jones / Mel Lewis Orchestra and went on a 3-month European tour which would become its last before Thad Jones left the band and it changed its name simply to the Mel Lewis Jazz Orchestra.
+-
+ After the tour both Thad Jones and Jesper Lundgaard settled in Copenhagen.
++He moved to Copenhagen in 1979.
+ Lundgaard became bassist-in-residence at the La Fontaine Jazz Club and also played frequently at other venues such as Jazzhus Montmartre and Slukefter, accompanying musicians such as Benny Carter, Teddy Wilson, Jay McShann, Dorothy Donegan, Phineas Newborn, Mose Allison and Stanley Turrentine.
+@@ -16,3 +16,2 @@
+ He has also recorded with Chet Baker and Duke Jordan on some albums released by Japanese labels.
+-
+ Up through the 1980s, Lundgaard was a member of the Radiojazzgruppen, Ernie Wilkins' Almost Big Band and Thad Jones' Danish big band Eclipse, Parallel to this he went on numerous tours with American musicians.
+@@ -20,8 +19,10 @@
+ In the mid-1980s he also became a member of Bob Rockwell's quartet after Rockwell had become the third former The Thad Jones / Mel Lewis Orchestra-member to permanently move to Copenhagen in 1984.
++From 1989 to 1991 he was a member of the DR Big Band and in 1993 he joined Svend Asmussen's quartet in which he still plays.
++In 1994 he formed the Repertory Quartet which released six albums before it was dissolved in 2000.
++He has also taught and conducted master classes at educational institutions in Denmark as well as at conservatories in Rotterdam, Zürich and Helsinki.
++Jesper Lundgaard celebrated his 60th birthday at a concert where Enrico Pieranunzi and Alex Riel performed.
+ 
+-From 1989 to 1991 he was a member of the DR Big Band and in 1993 he joined Svend Asmussen's quartet in which he still plays.
++== Musical style ==
+ 
+-In 1994 he formed the Repertory Quartet which released six albums before it was dissolved in 2000.
+-
+-He has also taught and conducted master classes at educational institutions in Denmark as well as at conservatories in Rotterdam, Zürich and Helsinki.
++Jesper Lundgaard plays modern jazz.
+ 
+@@ -32,39 +33,47 @@
+ 
+-Nuages with Boulou Ferre, Elios Ferre (SteepleChase, 1986) Live with Paul Bley (SteepleChase, 1986) Live Again with Paul Bley (SteepleChase, 1987) This Bass Was Made for Walking (Music Mecca, 1994) Playing in the Breeze with Thomas Fryland, Jacob Fischer (1995) Fine Together with Anders Lindskog, Jacob Fischer (Touche, 1999) Celebration with Alex Riel, Kenny Werner (Stunt, 2001) Play the Music of Borge Roger Henrichens with Thomas Clausen (Music Mecca, 2002) Two Basses with Mads Vinding (Touche, 2002) Relaxin' with Horace with Horace Parlan, Ed Thigpen (Stunt, 2004) Tributes with Jesper Thilo, Jan Lundgren (Music Mecca, 2005) Coming in from the Dark with Mette Juul, Alex Riel, Heine Hansen (Cowbell, 2010) Blue Rain with Thomas Clausen, Tomas Franck, Billy Hart (Stunt, 2015) 2016 with Hans Ulrick.
++Nuages with Boulou Ferre, Elios Ferre (SteepleChase, 1986) Live with Paul Bley (SteepleChase, 1986) Live Again with Paul Bley (SteepleChase, 1987)
++This Bass Was Made for Walking (Music Mecca, 1994)
++Playing in the Breeze with Thomas Fryland, Jacob Fischer (1995)
++Fine Together with Anders Lindskog, Jacob Fischer (Touche, 1999) Celebration with Alex Riel, Kenny Werner (Stunt, 2001)
++Jesper Lundgaard formed the Jesper Lundgaard Trio in 2001.
++The trio recorded the album Celluloid.
++The trio recorded the album Sculpting.
++The trio recorded the album Plays Cornelis.
++Play the Music of Borge Roger Henrichens with Thomas Clausen (Music Mecca, 2002)
++Two Basses with Mads Vinding (Touche, 2002) Relaxin' with Horace with Horace Parlan, Ed Thigpen (Stunt, 2004) Tributes with Jesper Thilo, Jan Lundgren (Music Mecca, 2005) Coming in from the Dark with Mette Juul, Alex Riel, Heine Hansen (Cowbell, 2010) Blue Rain with Thomas Clausen, Tomas Franck, Billy Hart (Stunt, 2015) 2016 with Hans Ulrick.
+ Niclas Knudsen (Storyville, 2016)
++The album 'Love and Peace: The Music of Horace Parlan' was released in 2013.
++The album is dedicated to the music of Horace Parlan.
+ 
+ With Lotte Anker – Mette Petersen Quartet Beyond the Mist (Stunt, 1989)
+-
+ With Chet Baker When Sunny Gets Blue (SteeplChase, 1986)
+-
+-With Paul Bley Questions (SteepleChase, 1985) My Standard (SteepleChase, 1985)
+-
+-With Benny Carter Summer Serenade (Storyville, 1980 [ 1982])
+-
++With Paul Bley Questions (SteepleChase, 1985)
++My Standard (SteepleChase, 1985)
++With Benny Carter Summer Serenade (Storyville, 1980)
+ With Eddie "Lockjaw" Davis All of Me (SteepleChase, 1983)
+-
+ With Teddy Edwards Out of This World (SteepleChase, 1980)
+-
+ With Tommy Flanagan Flanagan's Shenanigans (Storyville, 1994) Let's Play the Music of Thad Jones (Enja, 1993)
+-
+ With Frank Foster The House That Love Built (SteepleChase, 1982)
+-
+ With Thad Jones Live at Montmartre (Storyville, 1978) Eclipse (Storyville, 1979)
+-
+ With The Thad Jones / Mel Lewis Orchestra Body and Soul (West Wind, 1979)
+-
+-With Duke Jordan Time on My Hands (SteepleChase, 1988) As Time Goes By (SteepleChase, 1989)
+-
++With Duke Jordan Time on My Hands (SteepleChase, 1988)
++As Time Goes By (SteepleChase, 1989)
+ With Kirk Lightsey Isotope (Criss Cross, 1983)
+-
+ With Warne Marsh A Ballad Album (Criss Cross Jazz, 1983)
+-
+ With Phineas Newborn Jr.
+-Tivoli Encounter (Storyville, [ 1979] 1997)
+-
++Tivoli Encounter (Storyville, 1997)
+ With Horace Parlan Like Someone in Love (SteepleChase, 1983) Glad I Found You (SteepleChase, 1984)
+-
+-With Doug Raney I'll Close My Eyes (SteepleChase, 1982) Meeting the Tenors (Criss Cross, 1983) Blue and White (SteepleChase, 1984) Lazy Bird (SteepleChase, 1984) Something's Up (SteepleChase, 1988) The Doug Raney Quintet (SteepleChase, 1988)
+-
++With Doug Raney I'll Close My Eyes (SteepleChase, 1982)
++Meeting the Tenors (Criss Cross, 1983) Blue and White (SteepleChase, 1984) Lazy Bird (SteepleChase, 1984)
++Something's Up (SteepleChase, 1988)
++The Doug Raney Quintet (SteepleChase, 1988)
+ With Jimmy Raney Raney '81 (Criss Croes, 1981) with Eric Ineke The Master (Criss Cross, 1983)
++In the 1980s, he worked on sessions in Scandinavia.
++In the 1980s, he worked with Bernt Rosengren.
++In the 1980s, he worked with Michal Urbaniak.
++He participated in recordings by Lee Konitz in the 1990s.
++He participated in recordings by Arne Domnérus in the 1990s.
++He participated in recordings by Jesper Thilo in the 1990s.
++He participated in recordings by Alex Riel in the 1990s.
++He participated in a recording by Thomas Clausen in 2001.
+ 
+```

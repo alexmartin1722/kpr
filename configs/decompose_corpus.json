@@ -1,0 +1,13 @@
+{
+  "_": "Break a flat document collection into atomic English claims.",
+  "_use": "kpr-decompose --config configs/decompose_corpus.json",
+
+  "docs": "work/docs.jsonl",
+  "out": "work/claims.jsonl",
+
+  "_unit": "What gets decomposed at a time. paragraph is the default and is safe in every script; sentence is finer but splits unreliably in Arabic and Chinese; document is one call per document.",
+  "unit": "paragraph",
+
+  "concurrency": 32,
+  "max-tokens": 1024
+}
